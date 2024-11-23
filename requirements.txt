@@ -1,0 +1,5 @@
+langchain
+langchain-core
+ollama
+groq
+faiss-cpu==1.8.0
