@@ -30,7 +30,7 @@ Persiapkan environment python
   pip install virtualenv
   python -m venv venv
   venv/Scripts/activate (jika OS Windows)
-  source myvenv/bin/activate (jika macOS/Linux)
+  source venv/bin/activate (jika macOS/Linux)
 ```
 
 Install packages requirements
