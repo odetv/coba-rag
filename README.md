@@ -12,11 +12,11 @@ Coba RAG adalah project yang dirancang untuk membantu memahami dan mengimplement
 
 ## Modul Pengenalan RAG
 
-Clone project
+[Download MODUL RAG.pdf](modul/MODUL%20RAG.pdf)
 
 ## Instalasi Project
 
-[Download MODUL RAG.pdf](modul/MODUL%20RAG.pdf)
+Clone project
 
 ```bash
   https://github.com/odetv/coba-rag.git
