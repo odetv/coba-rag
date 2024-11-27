@@ -19,7 +19,7 @@ Coba RAG adalah project yang dirancang untuk membantu memahami dan mengimplement
 Clone project
 
 ```bash
-  https://github.com/odetv/coba-rag.git
+  git clone https://github.com/odetv/coba-rag.git
 ```
 
 Masuk ke direktori project
