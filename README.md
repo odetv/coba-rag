@@ -10,9 +10,13 @@ Coba RAG adalah project yang dirancang untuk membantu memahami dan mengimplement
 - [Groq](https://groq.com/): Model RAG gratis.
 - [FAISS](https://faiss.ai/): Penyimpanan vector database.
 
-## Instalasi Project
+## Modul Pengenalan RAG
 
 Clone project
+
+## Instalasi Project
+
+[Download MODUL RAG.pdf](modul/MODUL%20RAG.pdf)
 
 ```bash
   https://github.com/odetv/coba-rag.git
